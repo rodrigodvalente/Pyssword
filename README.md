@@ -11,7 +11,7 @@
 
 ```
   apt-get update && apt-get upgrade
-  git clone https://github.com/rodrigorxd/Pyssword.git
+  git clone https://github.com/rodrigorise/Pyssword.git
   cd pyssword
   python3 main.py
 ```
