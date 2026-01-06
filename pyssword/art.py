@@ -7,7 +7,7 @@ def menuPrincipal():
          8  8   8              """        """      ""    8b
          8  8, ,8         ,aaaaaaaaaaaaaaaaaaaaaaaaddddd88P
          8  `"""'       ,d8""
-         Yb,         ,ad8"    Pyssword - github.com/rodrigorxd
+         Yb,         ,ad8"    Pyssword - github.com/rodrigodvalente
           "Y8888888888P"
         Welcome to your secure password generator!
         Bem-vindo ao seu gerador de senhas seguras!
